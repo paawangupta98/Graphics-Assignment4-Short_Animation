@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7682
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\M3D_DLL.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\M3D_DLL.dll into Unity Child Domain
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\MCS_Utilities.dll (this message is harmless)
+Loading C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\MCS_Utilities.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Paawan.PAAWAN\Documents\New Unity Project\scene3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.030808 ms
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename:  Line: 242)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename:  Line: 242)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename:  Line: 242)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename:  Line: 242)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 25f4 -> priority: 1 
