@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 09a759747a4e413458357602a20faff1
+timeCreated: 1490456135
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Batch_12
+    100004: Batch_12_Ch_02_Avatar
+    100006: Camera
+    100008: Extra2_J
+    100010: Extra2_J_end
+    100012: Extra_J
+    100014: Extra_J_end
+    100016: Head_Jnt_01
+    100018: Head_Jnt_01_end
+    100020: L_Ankle_J
+    100022: L_Ball_J
+    100024: L_Hip_J
+    100026: L_Knee_J
+    100028: L_Toe_J
+    100030: L_Toe_J_end
+    100032: Lamp
+    100034: Left_Clavicle_Jnt
+    100036: Left_Elbow_Jnt
+    100038: Left_Fingers_02_Jnt
+    100040: Left_Fingers_02_Jnt_end
+    100042: Left_Fingers_Jnt_01
+    100044: Left_Shoulder_Jnt
+    100046: Left_Thumb_Jnt_01
+    100048: Left_Thumb_Jnt_02
+    100050: Left_Thumb_Jnt_02_end
+    100052: Left_Wrist_Jnt
+    100054: Pelvis_Jnt
+    100056: R_Ankle_J
+    100058: R_Ball_J
+    100060: R_Hip_J
+    100062: R_Knee_J
+    100064: R_Toe_J
+    100066: R_Toe_J_end
+    100068: Right_Clavicle_Jnt
+    100070: Right_Elbow_Jnt
+    100072: Right_Fingers_02_Jnt
+    100074: Right_Fingers_02_Jnt_end
+    100076: Right_Fingers_Jnt_01
+    100078: Right_Shoulder_Jnt
+    100080: Right_Thumb_Jnt_01
+    100082: Right_Thumb_Jnt_02
+    100084: Right_Thumb_Jnt_02_end
+    100086: Right_Wrist_Jnt
+    100088: Root_Jnt
+    100090: Spine_01_J
+    100092: Spine_02_J
+    100094: //RootNode
+    400000: Armature
+    400002: Batch_12
+    400004: Batch_12_Ch_02_Avatar
+    400006: Camera
+    400008: Extra2_J
+    400010: Extra2_J_end
+    400012: Extra_J
+    400014: Extra_J_end
+    400016: Head_Jnt_01
+    400018: Head_Jnt_01_end
+    400020: L_Ankle_J
+    400022: L_Ball_J
+    400024: L_Hip_J
+    400026: L_Knee_J
+    400028: L_Toe_J
+    400030: L_Toe_J_end
+    400032: Lamp
+    400034: Left_Clavicle_Jnt
+    400036: Left_Elbow_Jnt
+    400038: Left_Fingers_02_Jnt
+    400040: Left_Fingers_02_Jnt_end
+    400042: Left_Fingers_Jnt_01
+    400044: Left_Shoulder_Jnt
+    400046: Left_Thumb_Jnt_01
+    400048: Left_Thumb_Jnt_02
+    400050: Left_Thumb_Jnt_02_end
+    400052: Left_Wrist_Jnt
+    400054: Pelvis_Jnt
+    400056: R_Ankle_J
+    400058: R_Ball_J
+    400060: R_Hip_J
+    400062: R_Knee_J
+    400064: R_Toe_J
+    400066: R_Toe_J_end
+    400068: Right_Clavicle_Jnt
+    400070: Right_Elbow_Jnt
+    400072: Right_Fingers_02_Jnt
+    400074: Right_Fingers_02_Jnt_end
+    400076: Right_Fingers_Jnt_01
+    400078: Right_Shoulder_Jnt
+    400080: Right_Thumb_Jnt_01
+    400082: Right_Thumb_Jnt_02
+    400084: Right_Thumb_Jnt_02_end
+    400086: Right_Wrist_Jnt
+    400088: Root_Jnt
+    400090: Spine_01_J
+    400092: Spine_02_J
+    400094: //RootNode
+    4300000: Batch_12_Ch_02_Avatar
+    7400000: Armature
+    9500000: //RootNode
+    13700000: Batch_12_Ch_02_Avatar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature
+      takeName: Armature|Armature|Take 001|BaseLayer
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 40
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J/L_Toe_J_end
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Armature/Root_Jnt/Pelvis_Jnt/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J/R_Toe_J_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Head_Jnt_01
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Head_Jnt_01/Head_Jnt_01_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Extra_J
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Extra_J/Extra_J_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Fingers_Jnt_01
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Fingers_Jnt_01/Left_Fingers_02_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Fingers_Jnt_01/Left_Fingers_02_Jnt/Left_Fingers_02_Jnt_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Thumb_Jnt_01
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Thumb_Jnt_01/Left_Thumb_Jnt_02
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Left_Clavicle_Jnt/Left_Shoulder_Jnt/Left_Elbow_Jnt/Left_Wrist_Jnt/Left_Thumb_Jnt_01/Left_Thumb_Jnt_02/Left_Thumb_Jnt_02_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Extra2_J
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Extra2_J/Extra2_J_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Fingers_Jnt_01
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Fingers_Jnt_01/Right_Fingers_02_Jnt
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Fingers_Jnt_01/Right_Fingers_02_Jnt/Right_Fingers_02_Jnt_end
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Thumb_Jnt_01
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Thumb_Jnt_01/Right_Thumb_Jnt_02
+        weight: 1
+      - path: Armature/Root_Jnt/Spine_01_J/Spine_02_J/Right_Clavicle_Jnt/Right_Shoulder_Jnt/Right_Elbow_Jnt/Right_Wrist_Jnt/Right_Thumb_Jnt_01/Right_Thumb_Jnt_02/Right_Thumb_Jnt_02_end
+        weight: 1
+      - path: Batch_12
+        weight: 1
+      - path: Batch_12_Ch_02_Avatar
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
